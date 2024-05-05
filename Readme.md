@@ -56,7 +56,7 @@ Flask - Microframework de rápida curva de aprendizaje en el que acorde a tus ne
 
 4. SQL: Ya con la tabla charges creada y con una E-R bien definida se creó la vista vw_transacciones_por_día que nos permite identificar el monto y estatus transaccionado por día de cada compañía
 ### Montos transaccionados
-1[image text](/img/view.png)
+![image text](/img/view.png)
 
 ## Seccion 2
 1. Clase conjunto con métodos para quitar del set generado el número indicado y validar el número faltante, cada método retorna un valor acorde a cada situación para que la API devuelva una respuesta en formato JSON
